@@ -1,7 +1,7 @@
 Informações para acesso a aplicação:
 
 link-app:
-https://maxhml76.eletronuclear.gov.br/maxtrein/webclient/login/login.jsp
+https://mxanywherehml.eletronuclear.gov.br/maxtrein/webclient/login/login.jsp?welcome=true
 
 Visualizador
 usuário: pucvizu
